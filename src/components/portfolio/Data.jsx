@@ -42,6 +42,25 @@ export const projectsData = [
     github: "https://github.com/KongJen/Chat.app",
     web: "https://chat-app-dfco.onrender.com/",
   },
+  {
+    id: 5,
+    image: SeeThis,
+    title: "See.this",
+    category: "Web",
+    description:
+      "See.this is a contemplative project centered around observing a rock, inviting reflection on the passage of time and the nature of patience. In a world filled with constant activity, sometimes simply watching a rock can provide a moment of calm amidst the chaos.",
+    github: "https://github.com/KongJen/See.this",
+    web: "see-this.vercel.app",
+  },
+  {
+    id: 6,
+    image: WeatherApp,
+    title: "Weather.app",
+    category: "App",
+    description:
+      "This is applicattion pull API from WeatherAPI use XML and JAVA to write this for review my knowledge.",
+    github: "https://github.com/KongJen/Weather.App",
+  },
 ];
 
 export const projectsNav = [
