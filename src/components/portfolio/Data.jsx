@@ -2,6 +2,8 @@ import evento from "../../assets/evento.jpg";
 import friggering from "../../assets/fridgering.jpg";
 import LandF from "../../assets/LandF.jpg";
 import ChatApp from "../../assets/ChatApp.jpg";
+import SeeThis from "../../assets/SeeThis.png";
+import WeatherApp from "../../assets/WeatherApp.png";
 
 export const projectsData = [
   {
