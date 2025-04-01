@@ -17,7 +17,6 @@
   --border: 1px solid rgba(0, 0, 0, 0.1);
   --border-input: 2px solid rgba(0, 0, 0, 0.3);
   --shadow: rgba(0, 0, 0, 0.15);
-  --scoll: hsl(0, 0%, 95%);
 
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
@@ -63,7 +62,6 @@
   --border: 1px solid rgba(255, 255, 255, 0.1);
   --border-input: 2px solid rgba(255, 255, 255, 0.3);
   --shadow: rgba(255, 255, 255, 0.4);
-  --scoll: hsl(0, 0%, 5%);
 }
 
 /* Responsive typography */
@@ -200,7 +198,7 @@ body,
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: var(--scoll);
+  background: #f1f1f1;
   border-radius: 10px;
 }
 
